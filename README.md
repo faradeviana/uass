@@ -3,8 +3,7 @@
 FARA DEVIANA
 312010407
 
-
- <img width="230" alt="sss" src="https://user-images.githubusercontent.com/56913656/71645291-b2bde880-2d08-11ea-9155-c9cb1370ee9d.png">
+![](screenshoots/opsi%20Tambah.png)
  
 * ``daftar_nilai.py`` berisi modul untuk  :
     * tambah_data
